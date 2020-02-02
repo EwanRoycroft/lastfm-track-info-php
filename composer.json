@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dandelionmood/lastfm": "^0.8.0"
+    }
+}
